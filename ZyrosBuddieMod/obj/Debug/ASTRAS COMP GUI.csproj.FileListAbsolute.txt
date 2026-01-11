@@ -1,0 +1,16 @@
+C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins\MO\ASTRAS COMP GUI.dll
+C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins\MO\ASTRAS COMP GUI.pdb
+C:\Users\yotiv.DESKTOP-8E7NDKH\Downloads\ASTRAS-BASIC-PULLMOD-H\ASTRAS-BASIC-PULLMOD-H\obj\Debug\ASTRAS COMP GUI.csproj.AssemblyReference.cache
+C:\Users\yotiv.DESKTOP-8E7NDKH\Downloads\ASTRAS-BASIC-PULLMOD-H\ASTRAS-BASIC-PULLMOD-H\obj\Debug\ASTRAS COMP GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yotiv.DESKTOP-8E7NDKH\Downloads\ASTRAS-BASIC-PULLMOD-H\ASTRAS-BASIC-PULLMOD-H\obj\Debug\ASTRAS COMP GUI.AssemblyInfoInputs.cache
+C:\Users\yotiv.DESKTOP-8E7NDKH\Downloads\ASTRAS-BASIC-PULLMOD-H\ASTRAS-BASIC-PULLMOD-H\obj\Debug\ASTRAS COMP GUI.AssemblyInfo.cs
+C:\Users\yotiv.DESKTOP-8E7NDKH\Downloads\ASTRAS-BASIC-PULLMOD-H\ASTRAS-BASIC-PULLMOD-H\obj\Debug\ASTRAS COMP GUI.csproj.CoreCompileInputs.cache
+C:\Users\yotiv.DESKTOP-8E7NDKH\Downloads\ASTRAS-BASIC-PULLMOD-H\ASTRAS-BASIC-PULLMOD-H\obj\Debug\ASTRAS COMP GUI.dll
+C:\Users\yotiv.DESKTOP-8E7NDKH\Downloads\ASTRAS-BASIC-PULLMOD-H\ASTRAS-BASIC-PULLMOD-H\obj\Debug\ASTRAS COMP GUI.pdb
+C:\Users\yotiv.DESKTOP-8E7NDKH\Downloads\ZyroBuddie\ASTRAS-BASIC-PULLMOD-H\obj\Debug\ASTRAS COMP GUI.csproj.AssemblyReference.cache
+C:\Users\yotiv.DESKTOP-8E7NDKH\Downloads\ZyroBuddie\ASTRAS-BASIC-PULLMOD-H\obj\Debug\ASTRAS COMP GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yotiv.DESKTOP-8E7NDKH\Downloads\ZyroBuddie\ASTRAS-BASIC-PULLMOD-H\obj\Debug\ASTRAS COMP GUI.AssemblyInfoInputs.cache
+C:\Users\yotiv.DESKTOP-8E7NDKH\Downloads\ZyroBuddie\ASTRAS-BASIC-PULLMOD-H\obj\Debug\ASTRAS COMP GUI.AssemblyInfo.cs
+C:\Users\yotiv.DESKTOP-8E7NDKH\Downloads\ZyroBuddie\ASTRAS-BASIC-PULLMOD-H\obj\Debug\ASTRAS COMP GUI.csproj.CoreCompileInputs.cache
+C:\Users\yotiv.DESKTOP-8E7NDKH\Downloads\ZyroBuddie\ASTRAS-BASIC-PULLMOD-H\obj\Debug\ASTRAS COMP GUI.dll
+C:\Users\yotiv.DESKTOP-8E7NDKH\Downloads\ZyroBuddie\ASTRAS-BASIC-PULLMOD-H\obj\Debug\ASTRAS COMP GUI.pdb
