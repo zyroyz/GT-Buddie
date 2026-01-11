@@ -77,7 +77,7 @@ namespace Main
         {
             if (GorillaTagger.Instance.offlineVRRig != null)
             {
-                GorillaTagger.Instance.myVRRig.transform.localScale = new Vector3(2f,2f,2f);
+                GorillaTagger.Instance.offlineVRRig.transform.localScale = Vector3.one;
             }
 
             if (buddieCharacter == null) return;
