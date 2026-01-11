@@ -1,9 +1,0 @@
-C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins\MO\BuddieMod.dll
-C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins\MO\BuddieMod.pdb
-C:\Users\yotiv.DESKTOP-8E7NDKH\Downloads\ZyroBuddie\ASTRAS-BASIC-PULLMOD-H\obj\Debug\BuddieMod.csproj.AssemblyReference.cache
-C:\Users\yotiv.DESKTOP-8E7NDKH\Downloads\ZyroBuddie\ASTRAS-BASIC-PULLMOD-H\obj\Debug\BuddieMod.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\yotiv.DESKTOP-8E7NDKH\Downloads\ZyroBuddie\ASTRAS-BASIC-PULLMOD-H\obj\Debug\BuddieMod.AssemblyInfoInputs.cache
-C:\Users\yotiv.DESKTOP-8E7NDKH\Downloads\ZyroBuddie\ASTRAS-BASIC-PULLMOD-H\obj\Debug\BuddieMod.AssemblyInfo.cs
-C:\Users\yotiv.DESKTOP-8E7NDKH\Downloads\ZyroBuddie\ASTRAS-BASIC-PULLMOD-H\obj\Debug\BuddieMod.csproj.CoreCompileInputs.cache
-C:\Users\yotiv.DESKTOP-8E7NDKH\Downloads\ZyroBuddie\ASTRAS-BASIC-PULLMOD-H\obj\Debug\BuddieMod.dll
-C:\Users\yotiv.DESKTOP-8E7NDKH\Downloads\ZyroBuddie\ASTRAS-BASIC-PULLMOD-H\obj\Debug\BuddieMod.pdb
